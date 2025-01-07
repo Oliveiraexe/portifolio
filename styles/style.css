@@ -50,6 +50,7 @@ html{
     justify-self: center;
     text-decoration: none;
     display: flex;
+    margin-right: 10%;
     
 }
 
@@ -196,7 +197,7 @@ main{
 .secao-inferior{
     padding-bottom: 10%;
     background-color: #212227;
-    padding-left: 50px;
+    
     
 }
 
@@ -207,6 +208,7 @@ main{
 .secao-inferior__container__conteudo{
     font-size: 25px;
     color: white;
+    padding-left: 50px;
     
 }
 
@@ -225,7 +227,6 @@ main{
     width: 100%;
     justify-content: space-around;
     margin-top: 7%;
-
 }
 
 .secao-inferior__card{
